@@ -1,0 +1,9 @@
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\bin\Debug\waDemo01.exe.config
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\bin\Debug\waDemo01.exe
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\bin\Debug\waDemo01.pdb
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\waDemo01.Form1.resources
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\waDemo01.Properties.Resources.resources
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\WangShiQiMeng.csproj.GenerateResource.Cache
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\waDemo01.exe
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\waDemo01.pdb
+D:\vs2015\project\demo\Projects\waDemo01\waDemo01\waDemo01\obj\Debug\WangShiQiMeng.csprojResolveAssemblyReference.cache
